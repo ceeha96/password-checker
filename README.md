@@ -1,1 +1,1 @@
-# password-checker
+Created this code to test the strength of passwords after seeing a hacker getting access to over 8.8 million passwords due to weak passwords .... this is my Software dev/ops journey, youre welcome to make additional suggestions and contributions.
